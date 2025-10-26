@@ -1,0 +1,401 @@
+Pos,P+,Days,Pk,(x?),Pts,Pts+,TPts,Artist,Title
+1,+1,8,1,(x2),13458,1229,0.11,*NSYNC , Bye Bye Bye
+2,-1,77,1,(x3),12889,-780,0.703,Billie Eilish , BIRDS OF A FEATHER
+3,=,112,1,(x3),11736,-168,1.08,Shaboozey , A Bar Song
+4,+1,196,1,(x35),11280,1300,2.57,Benson Boone , Beautiful Things
+5,-1,1437,1,(x2),10549,-664,6.915,Disturbed , The Sound of Silence
+6,+1,389,1,(x6),10314,591,3.412,Teddy Swims , Lose Control
+7,+1,14,1,(x9),9661,225,0.244,Jimin , Who
+8,+1,42,1,(x1),9478,173,0.432,Coldplay , feelslikeimfallinginlove
+9,-3,133,1,(x1),9466,-504,1.247,Hozier , Too Sweet
+10,=,84,9,0,9234,-44,0.626,Myles Smith , Stargazing
+11,=,259,5,0,8719,-491,1.892,Cyril , Stumblin' In
+12,+1,63,1,(x21),8504,239,0.828,Eminem , Houdini
+13,-1,112,1,(x1),8350,-755,1.093,Sabrina Carpenter , Espresso
+14,+2,119,3,(x1),7606,1107,0.963,David Guetta & OneRepublic , I Don't Wanna Wait
+15,-1,90,14,0,7395,-524,0.352,Chappell Roan ," Good Luck, Babe"
+16,+1,195,13,0,6880,440,0.775,Teddy Swims , The Door
+17,+1,150,10,0,6160,94,0.967,Dasha , Austin
+18,-3,7,11,0,6130,-383,0.053,mgk & Jelly Roll , Lonely Road
+19,+5,134,11,0,5586,411,0.752,Mark Ambor , Belong Together
+20,+5,119,7,0,5560,581,0.851,"Jaxomy, Agatino Romero & Raffaella CarrÃ  ", Pedro
+21,=,13,21,0,5325,-258,0.175,Madonna , Like a Prayer
+22,=,42,22,0,5236,-255,0.168,KAROL G , Si Antes Te Hubiera Conocido
+23,+11,36,23,0,5167,1432,0.105,"Sevdaliza, Pabllo Vittar & Yseult ", Alibi
+24,+2,48,24,0,5150,323,0.156,"Adam Port, Stryv, Keinemusik, Orso & Malachiii ", Move
+25,-5,89,5,0,5046,-628,0.524,Kendrick Lamar , Not Like Us
+26,-3,85,5,0,4884,-351,0.553,Post Malone , I Had Some Help
+27,-8,56,9,0,4711,-1076,0.421,Sabrina Carpenter , Please Please Please
+28,+2,14,2,(x4),4700,350,0.133,Stray Kids , Chk Chk Boom
+29,=,1785,2,(x18),4581,10,7.208,Lady Gaga , Always Remember Us This Way
+30,+2,448,1,(x6),4467,511,2.922,Taylor Swift , Cruel Summer
+31,+6,129,3,(x1),4162,841,1.056,Artemas , i like the way you kiss me
+32,+1,2296,1,(x10),3936,7,10.289,Coldplay , A Sky Full of Stars
+33,-5,7,15,0,3823,-918,0.039,Post Malone , Guy For That
+34,-3,78,25,0,3783,-208,0.237,Luke Combs , Ain't No Love In Oklahoma
+35,+95,2,35,0,3468,2172,0.005,JhenÃ© Aiko , Bed Peace
+36,-9,4,27,0,3427,-1385,0.018,Brandon Lake , That's Who I Praise
+37,-1,105,1,(x6),3395,-65,0.785,Taylor Swift , Fortnight
+38,NEW,1,38,0,3378,3378,0.003,Madonna , Cherish
+39,+1,42,29,0,3276,89,0.139,Ella Langley & Riley Green , you look like you love me
+40,NEW,1,40,0,3222,3222,0.003,Red Velvet , Sweet Dreams
+41,-2,91,19,0,3221,-18,0.275,Marshmello & Kane Brown , Miles on It
+42,+2,42,10,0,3183,202,0.201,Post Malone , Pour Me A Drink
+43,-2,172,1,(x32),3130,-14,1.911,BeyoncÃ© , TEXAS HOLD 'EM
+44,-2,51,21,0,3122,-10,0.199,Jelly Roll , I Am Not Okay
+45,-7,7,38,0,3068,-188,0.018,Hanumankind & Kalmi , Big Dawgs
+46,NEW,43,31,0,3055,2357,0.133,Taylor Swift , august
+47,+1,50,28,0,2992,328,0.167,Christine and the Queens , Full of life
+48,-1,567,1,(x119),2922,236,6.507,Miley Cyrus , Flowers
+49,+6,936,1,(x47),2802,594,8.291,Taylor Swift , Shake It Off
+50,-15,14,20,0,2779,-819,0.063,"HUGEL, Topic & Arash ", I Adore You
+51,+1,239,18,0,2694,175,0.655,ZERB & Sofiya Nzau , Mwaki
+52,-7,97,13,0,2647,-207,0.438,Tommy Richman , MILLION DOLLAR BABY
+53,+3,132,17,0,2586,380,0.333,Benson Boone , Slow It Down
+54,-8,20,20,0,2483,-260,0.079,Eminem & Jelly Roll , Somebody Save Me
+55,-6,12,49,0,2393,-240,0.028,Charli xcx , Apple
+56,-3,7,42,0,2313,-174,0.019,Shirin David , Bauch Beine Po
+57,+9,11,50,0,2226,171,0.026,Megan Thee Stallion , Mamushi
+58,-15,2708,1,(x62),2158,-841,14.94,Ed Sheeran , Perfect
+59,-5,2308,1,(x95),2053,-428,9.577,Wiz Khalifa , See You Again
+60,+36,1481,3,(x7),2052,462,6.372,Sia , Unstoppable
+61,-11,20,38,0,2041,-497,0.043,MoBlack & Salif KeÃ¯ta , Yamore
+62,+1,8,61,0,2020,-93,0.016,YOASOBI , Butai ni tatte
+63,NEW,3,63,0,2018,2018,0.006,Colin , Zebra On the Beach
+64,+22,25,64,0,1904,239,0.052,Chappell Roan , HOT TO GO
+65,-7,2756,1,(x111),1845,-317,10.549,Adele , Hello
+66,+13,355,15,0,1815,44,1.103,BENNETT , Vois sur ton chemin
+67,-3,113,36,0,1809,-267,0.258,floyymenor & Cris Mj , Gata Only
+68,+46,167,1,(x2),1807,384,0.987,Dua Lipa , Training Season
+69,+89,34,55,0,1780,609,0.065,Shaboozey , Last Of My Kind
+70,+28,70,26,0,1777,215,0.196,Zach Bryan , Pink Skies
+71,-11,15,6,0,1759,-376,0.063,JADE , Angel Of My Dreams
+72,+39,27,55,0,1752,305,0.046,"GEMN, Kento Nakajima & Tatsuya Kitani ", Fatal
+73,+12,7,21,0,1747,61,0.022,Calvin Harris & Ellie Goulding , Free
+74,NEW,5,51,0,1744,1744,0.012,Lost Frequencies & Tom Odell , Black Friday
+75,+17,94,75,0,1743,132,0.967,The Goo Goo Dolls , Iris
+76,+86,116,1,(x1),1701,567,1.562,AC/DC , Highway to Hell
+77,-16,2047,1,(x154),1686,-446,12.382,Lady Gaga & Bradley Cooper , Shallow
+78,-2,28,24,0,1635,-150,0.081,Morgan Wallen , Lies Lies Lies
+79,-6,21,56,0,1615,-187,0.036,CYRIL , Fall At Your Feet
+80,-12,3,68,0,1600,-297,0.005,BUMP OF CHICKEN , Strawberry
+81,NEW,5,27,0,1574,784,0.017,Halsey , Lucky
+82,+18,98,35,0,1568,30,0.219,AYLIVA & Apache 207 , Wunder
+83,+65,39,83,0,1568,351,0.075,Tones And I , Down Under
+84,+115,531,14,0,1559,595,1.589,Morgan Wallen , Last Night
+85,-11,1536,7,0,1556,-240,6.078,Coldplay , Viva la Vida
+86,+27,31,86,0,1552,128,0.044,Kocchi No Kento , Hai Yorokonde
+87,-20,1744,1,(x23),1552,-397,9.879,P!nk , Just Give Me a Reason
+88,-23,21,1,(x3),1547,-529,0.12,Katy Perry , Woman's World
+89,NEW,2,85,0,1544,1544,0.003,Houshou marine , Dead Maâamâs Chest
+90,+104,260,1,(x14),1543,565,1.859,Dua Lipa , Houdini
+91,-2,19,68,0,1538,-99,0.031,back number , to new lovers
+92,+83,549,26,0,1535,492,1.446,Udo Lindenberg & Apache 207 , Komet
+93,+2,3,93,0,1508,-84,0.004,GLAY , Kaishin no ichigeki
+94,-17,2743,2,(x14),1495,-285,11.443,Ed Sheeran , Thinking Out Loud
+95,-14,676,3,(x4),1493,-214,3.889,Rema & Selena Gomez , Calm Down
+96,-24,2362,1,(x20),1492,-319,11.034,Mark Ronson , Uptown Funk
+97,-22,1037,1,(x22),1486,-304,8.474,Fun. , We Are Young
+98,NEW,1,98,0,1479,1479,0.001,MONOEYES , Adrenaline
+99,-40,8,19,0,1476,-683,0.025,XG , SOMETHING AIN'T RIGHT
+100,-31,2566,1,(x110),1475,-394,12.551,Ed Sheeran , Shape of You
+101,+6,118,30,0,1448,-20,0.223,Mr Belt & Wezol , It's Not Right
+102,-3,59,23,0,1426,-119,0.165,Cooper Alan , Feel Like Hell Today
+103,+3,13,103,0,1425,-45,0.025,BL3SS & CamrinWatsin , Kisses
+104,+1,2,104,0,1422,-57,0.003,Roger Whittaker , Roger Whittaker - Stereoact Hitmix
+105,+4,109,92,0,1422,-38,0.152,Mrs. Green Apple , Lilac
+106,-28,2,78,0,1418,-356,0.003,Arch Enemy , Dream Stealer
+107,-16,41,47,0,1411,-215,0.076,Tommy Richman , DEVIL IS A LIE
+108,+42,29,22,0,1406,210,0.058,"Jax Jones, Joel Corry & Jason Derulo ", Tonight
+109,NEW,5,53,0,1400,1400,0.009,è¤äºé¢¨ , Feelinâ Go(o)d
+110,+37,80,19,0,1366,149,0.129,"Majestic, The Jammin Kid & CÃ©line Dion ", Set My Heart On Fire
+111,-54,2166,17,0,1356,-826,7.245,Christina Perri , A Thousand Years
+112,+45,95,29,0,1356,179,0.201,Eclipse , Sudden Shower
+113,+21,18,106,0,1347,62,0.025,Roxy Dekker , Gaan We Weg
+114,+75,21,4,0,1346,345,0.076,Calum Scott , Roots
+115,-7,359,46,0,1327,-136,0.552,"Daft Punk, Pharrell Williams & Nile Rodgers ", Get Lucky
+116,-15,130,17,0,1327,-189,0.448,ILLIT , Magnetic
+117,-13,587,1,(x4),1322,-160,3.107,Taylor Swift , Anti-Hero
+118,-34,10,3,(x2),1318,-374,0.067,Jimin , Be Mine
+119,+24,38,82,0,1317,93,0.081,GIMS & DYSTINCT , SPIDER
+120,NEW,46,24,0,1317,721,0.116,Kabin Crew , The Spark
+121,+87,1726,5,0,1313,389,6.932,Ed Sheeran , Photograph
+122,+23,7,50,0,1312,93,0.235,Darude , Sandstorm
+123,-52,57,71,0,1301,-513,0.08,Tananai & Annalisa , STORIE BREVI
+124,+22,12,98,0,1299,80,0.035,Chappell Roan , Pink Pony Club
+125,+7,4,90,0,1290,0,0.006,Aimyon , Zarame
+126,+48,10,79,0,1277,227,0.069,Travis Scott , FEN
+127,NEW,349,13,0,1270,793,3.738,The Script , Hall of Fame
+128,NEW,1,128,0,1270,1270,0.001,KUN , Remedy
+129,-39,3,90,0,1265,-369,0.006,MOLOW & Chris Norman , Lay Back in the Arms of Someone
+130,-9,6,118,0,1265,-103,0.017,Tones And I , I Made It
+131,+30,104,113,0,1265,117,0.366,Mrs. Green Apple , Ao To Natsu
+132,NEW,1,132,0,1265,904,0.002,ã¢ã¼ãªã£(CV:ä¸åãã¿ã) , å°ããªæã®ãã
+133,-45,459,21,0,1248,-396,2.716,Ac/Dc , Thunderstruck
+134,NEW,1,134,0,1241,461,0.003,"Hatsuboshi Gakuen, Lilja Katsuragi, Saki Hanami & Kotone Fujita ", Kamurogiku
+135,+62,19,69,0,1231,267,0.036,Alvaro Soler , Te Imaginaba
+136,+96,47,74,0,1227,386,0.09,The Kolors , KARMA
+137,-57,268,10,0,1225,-545,0.971,Noah Kahan , Stick Season
+138,+31,88,40,0,1217,134,0.147,"SDP, Sido & Esther Graf ", Mama hat gesagt
+139,-29,3,110,0,1217,-233,0.004,S.E.M , Life's Side Menu
+140,+12,83,80,0,1216,31,0.202,Morgan Wallen , Cowgirls
+141,-18,3,100,0,1208,-140,0.005,Ryokuoushoku Shakai , Ienai
+142,+34,208,5,0,1193,152,0.526,Creepy Nuts , Bling-Bang-Bang-Born
+143,-73,2917,1,(x51),1188,-663,16.295,Adele , Someone Like You
+144,+27,104,99,0,1170,108,0.132,Da,iCE - I wonder
+145,-94,385,2,(x1),1165,-1371,1.976,Billie Eilish , What Was I Made For
+146,-26,18,48,0,1156,-223,0.035,Lainey Wilson , Out of Oklahoma
+147,NEW,39,28,0,1152,432,0.364,Snollebollekes , Links Rechts
+148,NEW,90,8,0,1151,559,0.3,SZA , Good Days
+149,NEW,1,149,0,1148,689,0.002,"Subaru Nagayoshi (CV: Yuka Saito), Sayoko Takayama (CV: Yuri Komagata), Karen Shinomiya (CV: Yui Kondo), Chizuru Nikaido (CV: Kanako Nomura) & Arisa Matsuda (CV: Rie Murakawa) ", Hypernova
+150,+28,17,57,0,1147,114,0.525,Alphaville , Forever Young
+151,+59,1,151,0,1125,216,0.002,Hatsuboshi Gakuen & China Kuramoto , Full of Dreams
+152,+28,277,1,(x3),1118,96,1.206,Taylor Swift , Love Story
+153,NEW,94,5,0,1117,825,0.261,Dua Lipa , Illusion
+154,-60,5,51,0,1110,-487,0.009,RIIZE , Lucky
+155,+51,1,155,0,1105,178,0.003,Sub Focus , Wildfire
+156,-16,14,75,0,1104,-137,0.021,Salvatore Mancuso & Max Niklas ," Baby, You're the One"
+157,-6,9,97,0,1104,-84,0.012,tuki. , Hyururirapappa
+158,NEW,1140,1,(x1),1103,560,6.032,Lewis Capaldi , Someone You Loved
+159,NEW,5,11,0,1102,348,0.031,Cerrone , Supernature
+160,+49,31,12,0,1085,165,0.084,BABYMONSTER , FOREVER
+161,-19,2050,1,(x68),1080,-147,10.609,Daft Punk , Get Lucky
+162,+28,44,98,0,1079,78,0.07,Alessandra Amoroso , Mezzo Rotto
+163,-80,6,83,0,1078,-623,0.009,Clairo , Flaming Hot Cheetos
+164,+40,3,161,0,1075,143,0.014,We Are The Night , Tiramisu Cake
+165,-2,21,14,0,1065,-66,0.055,Alesso & Nate Smith , I Like It
+166,+30,55,36,0,1064,99,0.098,Koe Wetzel & Jessie Murph , High Road
+167,-36,8,131,0,1063,-233,0.016,A.R. Rahman & Dhanush , Adangaatha Asuran
+168,-41,22,32,0,1062,-271,0.041,ONE OK ROCK , Delusion:All
+169,NEW,39,102,0,1058,361,0.099,SANTA , Recommence-moi
+170,+56,110,47,0,1050,196,0.525,Gala , Freed from Desire
+171,-46,587,5,0,1048,-291,6.026,P!nk , Try
+172,-37,741,3,(x5),1024,-256,7.299,Bruno Mars , When I Was Your Man
+173,NEW,139,24,0,1022,617,0.267,Joost , Europapa
+174,+24,6,116,0,1021,57,0.007,Aina The End , Love Sick
+175,NEW,1,175,0,1005,793,0.001,å¤©ä¹ãªãªãµ(CV: åç°ä½³ç¹é)ã»æ© ç¾è±è(CV: é¬¼é ­æé) , Watch Me
+176,-12,27,93,0,1002,-123,0.033,OFFICIAL HIGE DANDISM , Sharon
+177,NEW,14,44,0,997,594,0.033,KISS OF LIFE , Sticky
+178,NEW,111,100,0,995,298,0.146,Roxy Dekker , Sugardaddy
+179,NEW,25,48,0,995,339,0.049,Roland Kaiser , Mein Geheimnis
+180,+68,473,2,(x3),994,185,1.991,Loreen , Tattoo
+181,NEW,178,1,(x1),988,398,1.283,The Cranberries , Zombie
+182,NEW,380,28,0,987,229,0.881,Ricchi & Poveri , SarÃ  perchÃ© ti amo
+183,-24,2,159,0,983,-187,0.003,"Special Week (CV: Azumi Wake), Mihono Bourbon (CV: Ikumi Hasegawa), Hishi Akebono (CV: Rei Matsuzaki), Rice Shower (CV: Manaka Iwami), Nishino Flower (CV: Haruna Kawai), Biko Pegasus (CV: Aimi Tanaka), Cheval Grand (CV: Yuko Natsuyoshi), Katsuragi Ace (CV: Natsumi Fujiwara), Hishi Miracle (CV: Sakura Kasuga) & Cesario (CV: Haruka Sato) ", Umalicious Gourmet Parade
+184,-72,14,50,0,967,-474,0.028,Jelly Roll , Dead End Road
+185,-57,214,14,0,965,-357,0.614,Natasha Bedingfield , Unwritten
+186,-4,33,48,0,964,-57,0.052,YOASOBI , UNDEAD
+187,-46,415,2,(x7),959,-281,5.283,Lilly Wood & the Prick & Robin Schulz , Prayer In C
+188,NEW,34,59,0,953,635,0.309,CeCe Winans , Goodness of God
+189,+11,112,23,0,953,-2,0.41,SZA , Snooze
+190,-53,519,1,(x21),949,-322,6.917,Pitbull , Timber
+191,+25,6,87,0,945,53,0.008,"Sonny Fodera, Jazzy & D.O.D ", Somedays
+192,+55,15,86,0,945,135,0.038,Southern All Stars , Koi no Boogie-Woogie Night
+193,NEW,19,12,0,939,472,0.066,Quavo & Lana Del Rey , Tough
+194,+21,14,136,0,937,41,0.046,Hannah Mae & Maksim , Ik Wil Dat Je Liegt
+195,NEW,40,106,0,929,143,0.149,Cody Johnson , Dirt Cheap
+196,-72,3,84,0,927,-414,0.006,The Blackout Crew , Dance the Night Away
+197,+27,9,61,0,927,69,0.018,AYLIVA , Nein
+198,+4,61,53,0,927,-18,0.111,MY FIRST STORY & HYDE , MUGEN
+199,-60,1365,3,(x2),914,-339,8.619,Sia , Chandelier
+200,-19,4,173,0,909,-112,0.009,Revolverheld , Einfach Machen
+1,+117,11,1,(x1),23817,22499,0.09,Jimin , Be Mine
+2,NEW,1,2,(x1),16184,16184,0.016,Charli xcx & Billie Eilish , Guess
+3,-1,78,1,(x3),11791,-1098,0.715,Billie Eilish , BIRDS OF A FEATHER
+4,-1,113,1,(x3),11668,-68,1.091,Shaboozey , A Bar Song
+5,=,1438,1,(x2),10835,286,6.926,Disturbed , The Sound of Silence
+6,-2,197,1,(x35),10421,-859,2.581,Benson Boone , Beautiful Things
+7,-6,9,1,(x2),10342,-3116,0.12,*NSYNC , Bye Bye Bye
+8,+1,134,1,(x1),9951,485,1.257,Hozier , Too Sweet
+9,NEW,1,9,0,9453,9453,0.009,Marilyn Manson , As Sick As The Secrets Within
+10,-2,43,1,(x1),9284,-194,0.442,Coldplay , feelslikeimfallinginlove
+11,-5,390,1,(x6),9091,-1223,3.421,Teddy Swims , Lose Control
+12,-2,85,9,0,8748,-486,0.635,Myles Smith , Stargazing
+13,-1,64,1,(x21),8733,229,0.837,Eminem , Houdini
+14,-3,260,5,0,8521,-198,1.901,Cyril , Stumblin' In
+15,-2,113,1,(x1),8107,-243,1.101,Sabrina Carpenter , Espresso
+16,-1,91,14,0,7108,-287,0.359,Chappell Roan ," Good Luck, Babe"
+17,-10,15,1,(x9),7071,-2590,0.251,Jimin , Who
+18,-2,196,13,0,6539,-341,0.781,Teddy Swims , The Door
+19,-5,120,3,(x1),6474,-1132,0.97,David Guetta & OneRepublic , I Don't Wanna Wait
+20,-3,151,10,0,6047,-113,0.973,Dasha , Austin
+21,+6,57,9,0,5616,905,0.427,Sabrina Carpenter , Please Please Please
+22,+3,90,5,0,5393,347,0.529,Kendrick Lamar , Not Like Us
+23,-5,8,11,0,5329,-801,0.058,mgk & Jelly Roll , Lonely Road
+24,-5,135,11,0,5158,-428,0.757,Mark Ambor , Belong Together
+25,-1,49,24,0,4927,-223,0.161,"Adam Port, Stryv, Keinemusik, Orso & Malachiii ", Move
+26,-4,43,22,0,4760,-476,0.172,KAROL G , Si Antes Te Hubiera Conocido
+27,-1,86,5,0,4650,-234,0.557,Post Malone , I Had Some Help
+28,-5,37,23,0,4592,-575,0.11,"Sevdaliza, Pabllo Vittar & Yseult ", Alibi
+29,-9,120,7,0,4442,-1118,0.856,"Jaxomy, Agatino Romero & Raffaella CarrÃ  ", Pedro
+30,=,449,1,(x6),4300,-167,2.926,Taylor Swift , Cruel Summer
+31,NEW,1,31,0,4266,4266,0.004,Jessie Murph & Teddy Swims , Dirty
+32,+13,8,32,0,4083,1015,0.023,Hanumankind & Kalmi , Big Dawgs
+33,=,8,15,0,3992,169,0.043,Post Malone , Guy For That
+34,+5,43,29,0,3779,503,0.143,Ella Langley & Riley Green , you look like you love me
+35,-1,79,25,0,3757,-26,0.241,Luke Combs , Ain't No Love In Oklahoma
+36,+92,2,36,0,3754,2484,0.005,KUN , Remedy
+37,-6,130,3,(x1),3710,-452,1.06,Artemas , i like the way you kiss me
+38,+4,43,10,0,3487,304,0.204,Post Malone , Pour Me A Drink
+39,-10,1786,2,(x18),3330,-1251,7.212,Lady Gaga , Always Remember Us This Way
+40,-19,14,21,0,3316,-2009,0.179,Madonna , Like a Prayer
+41,+9,15,20,0,3312,533,0.067,"HUGEL, Topic & Arash ", I Adore You
+42,NEW,1,42,0,3247,3247,0.003,Jelly Roll , Liar
+43,-7,5,27,0,3057,-370,0.021,Brandon Lake , That's Who I Praise
+44,=,52,21,0,3010,-112,0.202,Jelly Roll , I Am Not Okay
+45,-4,92,19,0,2986,-235,0.278,Marshmello & Kane Brown , Miles on It
+46,NEW,1,46,0,2954,2954,0.003,Apache 207 , Miami
+47,-15,2297,1,(x10),2860,-1076,10.292,Coldplay , A Sky Full of Stars
+48,-5,173,1,(x32),2839,-291,1.914,BeyoncÃ© , TEXAS HOLD 'EM
+49,-14,3,35,0,2834,-634,0.008,JhenÃ© Aiko , Bed Peace
+50,+11,21,38,0,2822,781,0.046,MoBlack & Salif KeÃ¯ta , Yamore
+51,+5,8,42,0,2647,334,0.021,Shirin David , Bauch Beine Po
+52,+2,21,20,0,2423,-60,0.081,Eminem & Jelly Roll , Somebody Save Me
+53,+2,13,49,0,2421,28,0.031,Charli xcx , Apple
+54,-14,2,40,0,2368,-854,0.006,Red Velvet , Sweet Dreams
+55,NEW,1,55,0,2279,2279,0.002,RÃFÃS DU SOL , Lately
+56,+32,22,1,(x3),2279,732,0.122,Katy Perry , Woman's World
+57,-20,106,1,(x6),2250,-1145,0.787,Taylor Swift , Fortnight
+58,-1,12,50,0,2225,-1,0.029,Megan Thee Stallion , Mamushi
+59,-7,98,13,0,2225,-422,0.441,Tommy Richman , MILLION DOLLAR BABY
+60,+18,29,24,0,2059,424,0.083,Morgan Wallen , Lies Lies Lies
+61,-8,133,17,0,2004,-582,0.335,Benson Boone , Slow It Down
+62,=,9,61,0,1983,-37,0.018,YOASOBI , Butai ni tatte
+63,NEW,1,63,0,1960,1873,0.002,Zion Foster , Mine
+64,-16,568,1,(x119),1900,-1022,6.508,Miley Cyrus , Flowers
+65,+36,119,30,0,1891,443,0.225,Mr Belt & Wezol , It's Not Right
+66,-38,15,2,(x4),1889,-2811,0.135,Stray Kids , Chk Chk Boom
+67,-9,2709,1,(x62),1835,-323,14.942,Ed Sheeran , Perfect
+68,+77,386,2,(x1),1798,633,1.977,Billie Eilish , What Was I Made For
+69,-2,114,36,0,1777,-32,0.259,floyymenor & Cris Mj , Gata Only
+70,NEW,1,70,0,1773,1773,0.002,Lainey Wilson , Good Horses
+71,+11,99,35,0,1761,193,0.22,AYLIVA & Apache 207 , Wunder
+72,-25,51,28,0,1760,-1232,0.169,Christine and the Queens , Full of life
+73,-4,35,55,0,1722,-58,0.067,Shaboozey , Last Of My Kind
+74,-23,240,18,0,1715,-979,0.657,ZERB & Sofiya Nzau , Mwaki
+75,+54,4,75,0,1706,441,0.008,MOLOW & Chris Norman , Lay Back in the Arms of Someone
+76,+10,32,76,0,1702,150,0.046,Kocchi No Kento , Hai Yorokonde
+77,-14,4,63,0,1684,-334,0.007,Colin , Zebra On the Beach
+78,-6,28,55,0,1678,-74,0.048,"GEMN, Kento Nakajima & Tatsuya Kitani ", Fatal
+79,NEW,1,79,0,1670,1670,0.002,Bryan Adams , Rock And Roll Hell
+80,-7,8,21,0,1667,-80,0.024,Calvin Harris & Ellie Goulding , Free
+81,-13,168,1,(x2),1663,-144,0.988,Dua Lipa , Training Season
+82,+53,20,69,0,1647,416,0.038,Alvaro Soler , Te Imaginaba
+83,-45,2,38,0,1619,-1759,0.005,Madonna , Cherish
+84,+5,3,84,0,1619,75,0.005,Houshou marine , Dead Maâamâs Chest
+85,-14,16,6,0,1603,-156,0.064,JADE , Angel Of My Dreams
+86,-6,4,68,0,1568,-32,0.007,BUMP OF CHICKEN , Strawberry
+87,NEW,1,87,0,1564,1564,0.002,Isi GlÃ¼ck & Julian Benz , Mallekind
+88,+20,30,22,0,1561,155,0.06,"Jax Jones, Joel Corry & Jason Derulo ", Tonight
+89,NEW,1,89,0,1549,1549,0.002,JEON SOMI , Ice Cream
+90,-44,44,31,0,1543,-1512,0.135,Taylor Swift , august
+91,+91,381,28,0,1534,547,0.883,Ricchi & Poveri , SarÃ  perchÃ© ti amo
+92,NEW,1,92,0,1522,1522,0.002,Sonia Liebing ," Nein, Baby"
+93,-14,22,56,0,1518,-97,0.038,CYRIL , Fall At Your Feet
+94,-34,1482,3,(x7),1516,-536,6.374,Sia , Unstoppable
+95,+8,14,95,0,1514,89,0.026,BL3SS & CamrinWatsin , Kisses
+96,-5,20,68,0,1508,-30,0.033,back number , to new lovers
+97,-27,71,26,0,1497,-280,0.198,Zach Bryan , Pink Skies
+98,+22,47,24,0,1494,177,0.117,Kabin Crew , The Spark
+99,+6,110,92,0,1479,57,0.153,Mrs. Green Apple , Lilac
+100,NEW,4,77,0,1478,1478,0.007,KUN , Spotlight
+101,+135,224,20,0,1476,666,2.543,Journey , Don't Stop Believin'
+102,=,60,23,0,1468,42,0.167,Cooper Alan , Feel Like Hell Today
+103,-38,2757,1,(x111),1467,-378,10.551,Adele , Hello
+104,-30,6,51,0,1455,-289,0.014,Lost Frequencies & Tom Odell , Black Friday
+105,+32,269,10,0,1447,222,0.972,Noah Kahan , Stick Season
+106,-23,40,83,0,1422,-146,0.076,Tones And I , Down Under
+107,-9,2,98,0,1422,-57,0.003,MONOEYES , Adrenaline
+108,NEW,1,108,0,1411,861,0.002,Stell , Anino
+109,NEW,3,93,0,1408,1408,0.007,KUN , RIDE OR DIE
+110,-15,677,3,(x4),1402,-91,3.89,Rema & Selena Gomez , Calm Down
+111,-7,3,104,0,1395,-27,0.004,Roger Whittaker , Roger Whittaker - Stereoact Hitmix
+112,NEW,9,88,0,1368,632,0.021,VAUNDY , Homunculus
+113,NEW,1,113,0,1365,1365,0.004,KUN , Wait Wait Wait
+114,-15,9,19,0,1355,-121,0.027,XG , SOMETHING AIN'T RIGHT
+115,NEW,1,115,0,1347,1347,0.001,HIMEHINA , Tears
+116,NEW,1,116,0,1344,1344,0.001,Mimi Webb , Erase You
+117,-24,4,93,0,1341,-167,0.006,GLAY , Kaishin no ichigeki
+118,NEW,1,118,0,1339,1339,0.001,KUN , Hard To Get
+119,-44,95,75,0,1326,-417,0.968,The Goo Goo Dolls , Iris
+120,+49,40,102,0,1303,245,0.1,SANTA , Recommence-moi
+121,-27,2744,2,(x14),1303,-192,11.444,Ed Sheeran , Thinking Out Loud
+122,NEW,11,55,0,1296,868,0.037,Stephanie Rainey , Please Don't Go
+123,=,58,71,0,1291,-10,0.081,Tananai & Annalisa , STORIE BREVI
+124,+7,105,113,0,1290,25,0.367,Mrs. Green Apple , Ao To Natsu
+125,-76,937,1,(x47),1268,-1534,8.292,Taylor Swift , Shake It Off
+126,NEW,4,68,0,1267,1267,0.007,Fujii Kaze , Feelinâ Go(o)d
+127,+7,2,127,0,1265,24,0.004,"Hatsuboshi Gakuen, Lilja Katsuragi, Saki Hanami & Kotone Fujita ", Kamurogiku
+128,-21,42,47,0,1256,-155,0.077,Tommy Richman , DEVIL IS A LIE
+129,NEW,1,129,0,1246,595,0.002,Stell , Classic
+130,NEW,1,130,0,1244,1244,0.001,Keith Urban , HEART LIKE A HOMETOWN
+131,-39,550,26,0,1243,-292,1.447,Udo Lindenberg & Apache 207 , Komet
+132,+12,105,99,0,1241,71,0.133,Da,iCE - I wonder
+133,NEW,1,133,0,1238,727,0.002,Stell , âDi Ko Masabi
+134,-21,19,106,0,1236,-111,0.026,Roxy Dekker , Gaan We Weg
+135,-35,2567,1,(x110),1236,-239,12.552,Ed Sheeran , Shape of You
+136,+23,6,11,0,1223,121,0.032,Cerrone , Supernature
+137,-1,48,74,0,1218,-9,0.091,The Kolors , KARMA
+138,+2,84,80,0,1217,1,0.203,Morgan Wallen , Cowgirls
+139,-75,26,64,0,1202,-702,0.053,Chappell Roan , HOT TO GO
+140,-74,356,15,0,1201,-614,1.104,BENNETT , Vois sur ton chemin
+141,NEW,1,141,0,1194,1194,0.001,Khalid , Heatstroke
+142,-32,81,19,0,1193,-173,0.13,"Majestic, The Jammin Kid & CÃ©line Dion ", Set My Heart On Fire
+143,-13,7,118,0,1193,-72,0.018,Tones And I , I Made It
+144,-19,5,90,0,1193,-97,0.007,Aimyon , Zarame
+145,+1,19,48,0,1178,22,0.036,Lainey Wilson , Out of Oklahoma
+146,NEW,1,146,0,1169,1169,0.001,"Gabry Ponte, Steve Aoki & KEL ", He's A Pirate
+147,NEW,5,38,0,1168,498,0.016,Stell , Room
+148,NEW,1,148,0,1165,1165,0.001,David Guetta & AFROJACK , Raving
+149,+3,278,1,(x3),1161,43,1.208,Taylor Swift , Love Story
+150,NEW,1,150,0,1148,842,0.001,åç°ä¾æª with å°å®¤å²å , Jump to the Breeze
+151,+5,15,75,0,1148,44,0.022,Salvatore Mancuso & Max Niklas ," Baby, You're the One"
+152,-10,209,5,0,1148,-45,0.527,Creepy Nuts , Bling-Bang-Bang-Born
+153,-57,2363,1,(x20),1126,-366,11.035,Mark Ronson , Uptown Funk
+154,+38,16,86,0,1118,173,0.039,Southern All Stars , Koi no Boogie-Woogie Night
+155,NEW,1,155,0,1111,1111,0.001,Anstandslos & Durchgeknallt & Vivi Minu , Paradies
+156,-6,18,57,0,1110,-37,0.526,Alphaville , Forever Young
+157,-67,261,1,(x14),1109,-434,1.86,Dua Lipa , Houdini
+158,+44,1,158,0,1106,203,0.002,Frank Ocean , Pink Matter
+159,+9,23,32,0,1104,42,0.042,ONE OK ROCK , Delusion:All
+160,-76,532,14,0,1094,-465,1.59,Morgan Wallen , Last Night
+161,+30,7,87,0,1092,147,0.009,"Sonny Fodera, Jazzy & D.O.D ", Somedays
+162,NEW,1,162,0,1083,1083,0.001,"MOGUAI, David Puentez & Salvatore Mancuso ", Your Love
+163,-22,4,100,0,1083,-125,0.006,Ryokuoushoku Shakai , Ienai
+164,-50,22,4,0,1082,-264,0.077,Calum Scott , Roots
+165,-43,8,50,0,1080,-232,0.236,Darude , Sandstorm
+166,-47,39,82,0,1076,-241,0.082,GIMS & DYSTINCT , SPIDER
+167,-55,96,29,0,1074,-282,0.202,Eclipse , Sudden Shower
+168,+30,62,53,0,1070,143,0.112,MY FIRST STORY & HYDE , MUGEN
+169,NEW,63,63,0,1068,618,0.777,4 Non Blondes , What's Up
+170,+6,28,93,0,1062,60,0.034,OFFICIAL HIGE DANDISM , Sharon
+171,-16,2,155,0,1061,-44,0.004,Sub Focus , Wildfire
+172,NEW,1,172,0,1059,1059,0.001,Kacey Musgraves , Arm's Length
+173,NEW,1,173,0,1056,420,0.003,RAF Camora , Anthrazit Forever
+174,+11,215,14,0,1054,89,0.615,Natasha Bedingfield , Unwritten
+175,-13,45,98,0,1052,-27,0.071,Alessandra Amoroso , Mezzo Rotto
+176,+46,2642,1,(x1),1048,195,16.968,Adele , Rolling In the Deep
+177,+49,5,157,0,1047,205,0.007,"Noko Shikanoko (CV: Megumi Han), Torako Koshi (CV: Saki Fujita), èè¦é¤¡å­ (CV.ç°è¾ºçä¾) & é¦¬è»è½ãã (CV.åæ³é¢¨è±) ", Shikairo Days
+178,NEW,5,28,0,1045,1045,0.012,KUN , Afterglow
+179,NEW,1,179,0,1041,547,0.004,Lindsey Stirling , Eye Of The Untold Her
+180,-42,89,40,0,1041,-176,0.148,"SDP, Sido & Esther Graf ", Mama hat gesagt
+181,+5,34,48,0,1041,77,0.053,YOASOBI , UNDEAD
+182,+61,9,52,0,1040,240,0.032,Charli XCX , 360
+183,NEW,1,183,0,1040,1040,0.001,Oscar and the Wolf , Oh Boy
+184,+25,21,113,0,1039,153,0.119,Dustin Lynch , Chevrolet
+185,-15,111,47,0,1038,-12,0.526,Gala , Freed from Desire
+186,+44,61,4,0,1038,209,0.292,Billie Eilish , LUNCH
+187,NEW,1,187,0,1029,1029,0.001,Sam Smith & Alicia Keys , I'm Not The Only One
+188,-72,131,17,0,1024,-303,0.449,ILLIT , Magnetic
+189,-92,1038,1,(x22),1016,-470,8.475,Fun. , We Are Young
+190,-23,9,131,0,1006,-57,0.017,A.R. Rahman & Dhanush , Adangaatha Asuran
+191,+32,141,62,0,1006,154,0.309,Zaho de Sagazan , La symphonie des Ã©clairs
+192,+39,4,162,0,1002,176,0.012,Alex Lloyd , Amazing
+193,-67,11,79,0,987,-290,0.07,Travis Scott , FEN
+194,NEW,2,155,0,984,328,0.007,Kylie Morgan , Scratching the Surface
+195,-16,26,48,0,983,-12,0.05,Roland Kaiser , Mein Geheimnis
+196,-12,15,50,0,976,9,0.029,Jelly Roll , Dead End Road
+197,+14,32,89,0,971,93,0.068,Tony Effe & GAIA , SESSO E SAMBA
+198,NEW,12,33,0,970,272,0.029,Felix Jaehn , Ready For Your Love
+199,+2,13,58,0,964,55,0.019,Yuuri , Curtain Call
+200,-40,32,12,0,963,-122,0.085,BABYMONSTER , FOREVER
